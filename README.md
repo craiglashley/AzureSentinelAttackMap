@@ -2,6 +2,8 @@
 
 <h2>Description</h2>
 I created a vulnerable virtual machine by exposing it to the internet and then collected logs from bad actor login attempts. These logs were parsed through Azure Sentinel to create an attack map.
+
+![image](https://github.com/craiglashley/AzureSentinelAttackMap/assets/164884179/be0bcf9c-f6b1-4d07-85b5-06212bfaf6e8)
 <br />
 
 <h2>Languages</h2>
