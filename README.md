@@ -64,7 +64,7 @@ Turn Domain, Private, and Public Firewalls Off
 <p align="center">
 Copy Custom_Security_Log_Exporter into VM PowerShell
 
-![image](https://github.com/craiglashley/AzureSentinelAttackMap/assets/164884179/280c54d3-6964-462e-a271-947a1c4d3ed8)
+![image](https://github.com/user-attachments/assets/f4607e1d-ff08-49f6-bead-17b43ab06033)
 <p align="center">
 Get free API Key from https://app.ipgeolocation.io/
 
